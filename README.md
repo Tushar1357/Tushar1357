@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="https://portfolio-tushar-tuteja.netlify.app/images/selfimage.jpg" alt="Tushar Tuteja Avatar" width="150" />
 </div>
 
