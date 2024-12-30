@@ -1,3 +1,5 @@
+![Tushar Tuteja Avatar](https://portfolio-tushar-tuteja.netlify.app/images/selfimage.jpg)
+
 # Hi there, I'm Tushar Tuteja! 👋
 
 Welcome to my GitHub profile! I'm a B.Tech student in Computer Science at DCRUST College with a passion for **MERN stack development**, **blockchain development**, and building innovative tech solutions.
