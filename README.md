@@ -39,10 +39,10 @@ Welcome to my GitHub profile! I'm a B.Tech student in Computer Science at DCRUST
 
 ## 🌟 Featured Projects
 
-- **Cloud IDE Platform**: [Repo Link]([https://github.com/Tushar1357/cloud-ide](https://github.com/Tushar1357/CodeSphere-Cloud-IDE))
-- **Dapp for swapping cryptocurrencies (Blockchain)**: (https://dbswap.xyz)
+- **Cloud IDE Platform**: [Repo Link](https://github.com/Tushar1357/cloud-ide](https://github.com/Tushar1357/CodeSphere-Cloud-IDE)
+- **Dapp for swapping cryptocurrencies (Blockchain)**: [LiveLink](https://dbswap.xyz)
 - **E-commerce website**: [Repo Link](https://github.com/Tushar1357/E-commerce-website)
-- **Wallet Tracking bot**: (https://t.me/ethtxntrack_bot)
+- **Wallet Tracking bot**: [LiveLink](https://t.me/ethtxntrack_bot)
 
 ---
 
