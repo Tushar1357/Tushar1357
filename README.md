@@ -1,4 +1,6 @@
-![Tushar Tuteja Avatar](https://portfolio-tushar-tuteja.netlify.app/images/selfimage.jpg)
+<div align="right">
+  <img src="https://portfolio-tushar-tuteja.netlify.app/images/selfimage.jpg" alt="Tushar Tuteja Avatar" width="150" />
+</div>
 
 # Hi there, I'm Tushar Tuteja! 👋
 
