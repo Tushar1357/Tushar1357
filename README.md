@@ -92,7 +92,7 @@ I love turning complex backend problems into clean, production-ready solutions.
 📩 Email: **tushartuteja19@gmail.com**  
 💼 LinkedIn: https://linkedin.com/in/tushar-tuteja  
 💻 GitHub: https://github.com/Tushar1357  
-📱 Telegram Bot: https://t.me/mrspaymentbot  
+📱 X: https://x.com/0xtushartuteja
 
 ---
 
