@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tushar1357/Tushar1357/refs/heads/main/ChatGPT%20Image%20Nov%2016%2C%202025%2C%2001_26_23%20PM.png" width="100%" />
+</p>
+
+
 # 🚀 Tushar Tuteja  
 ### Backend Engineer • Distributed Systems • AI Integrations • WebRTC • Blockchain Automation
 
