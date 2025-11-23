@@ -13,9 +13,9 @@ I love turning complex backend problems into clean, production-ready solutions.
 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Codey001&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Codey001&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codey001&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tushar1357&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tushar1357&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar1357&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
 
