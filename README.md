@@ -99,10 +99,10 @@ I love turning complex backend problems into clean, production-ready solutions.
 ## 📫 Connect With Me
 
 📩 Email: **tushartuteja19@gmail.com**  
-📱 Portfolio: https://tushartuteja.xyz
 💼 LinkedIn: https://linkedin.com/in/tushar-tuteja  
 💻 GitHub: https://github.com/Tushar1357  
 📱 X: https://x.com/0xtushartuteja
+📱 Portfolio: https://tushartuteja.xyz
 
 ---
 
